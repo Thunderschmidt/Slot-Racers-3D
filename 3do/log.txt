@@ -1,0 +1,10 @@
+Report:
+File cleaned: "C:\MinGW\prgs\slot3d\3do\racer.3do"
+	Original file size: 7907 bytes
+	14 vertexes removed
+	0 faces removed
+	Cleaned file size: 7739 bytes
+1 out of 1 files cleaned successfully
+	14 vertexes removed
+	0 faces removed
+	168 bytes removed
